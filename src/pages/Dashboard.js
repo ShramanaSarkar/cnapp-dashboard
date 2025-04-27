@@ -36,7 +36,7 @@ const Dashboard = () => {
 
   return (
     <Container
-      sx={{ backgroundColor: "#f4f7fb", minHeight: "100vh", py: 4, px: 6 }}
+      sx={{ backgroundColor: "#f2f5fa", minHeight: "100vh", py: 4, px: 6 }}
       maxWidth="xl"
     >
       <Box
